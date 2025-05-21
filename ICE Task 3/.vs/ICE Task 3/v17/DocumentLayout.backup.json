@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pearl\\Documents\\School\\Year 3 Sem 1\\CLDV6211\\2025\\ICE-Task-3\\ICE Task 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9981AAA0-4016-4A2E-BDBF-81D78C94E4E5}|ICE Task 3.csproj|c:\\users\\pearl\\documents\\school\\year 3 sem 1\\cldv6211\\2025\\ice-task-3\\ice task 3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9981AAA0-4016-4A2E-BDBF-81D78C94E4E5}|ICE Task 3.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9981AAA0-4016-4A2E-BDBF-81D78C94E4E5}|ICE Task 3.csproj|c:\\users\\pearl\\documents\\school\\year 3 sem 1\\cldv6211\\2025\\ice-task-3\\ice task 3\\controllers\\bandinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9981AAA0-4016-4A2E-BDBF-81D78C94E4E5}|ICE Task 3.csproj|solutionrelative:controllers\\bandinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9981AAA0-4016-4A2E-BDBF-81D78C94E4E5}|ICE Task 3.csproj|c:\\users\\pearl\\documents\\school\\year 3 sem 1\\cldv6211\\2025\\ice-task-3\\ice task 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9981AAA0-4016-4A2E-BDBF-81D78C94E4E5}|ICE Task 3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9981AAA0-4016-4A2E-BDBF-81D78C94E4E5}|ICE Task 3.csproj|c:\\users\\pearl\\documents\\school\\year 3 sem 1\\cldv6211\\2025\\ice-task-3\\ice task 3\\data\\bdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9981AAA0-4016-4A2E-BDBF-81D78C94E4E5}|ICE Task 3.csproj|solutionrelative:data\\bdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9981AAA0-4016-4A2E-BDBF-81D78C94E4E5}|ICE Task 3.csproj|c:\\users\\pearl\\documents\\school\\year 3 sem 1\\cldv6211\\2025\\ice-task-3\\ice task 3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9981AAA0-4016-4A2E-BDBF-81D78C94E4E5}|ICE Task 3.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pearl\\Documents\\School\\Year 3 Sem 1\\CLDV6211\\2025\\ICE-Task-3\\ICE Task 3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Pearl\\Documents\\School\\Year 3 Sem 1\\CLDV6211\\2025\\ICE-Task-3\\ICE Task 3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T09:17:56.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BandInfoController.cs",
+              "DocumentMoniker": "C:\\Users\\Pearl\\Documents\\School\\Year 3 Sem 1\\CLDV6211\\2025\\ICE-Task-3\\ICE Task 3\\Controllers\\BandInfoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BandInfoController.cs",
+              "ToolTip": "C:\\Users\\Pearl\\Documents\\School\\Year 3 Sem 1\\CLDV6211\\2025\\ICE-Task-3\\ICE Task 3\\Controllers\\BandInfoController.cs",
+              "RelativeToolTip": "Controllers\\BandInfoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T09:17:36.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Pearl\\Documents\\School\\Year 3 Sem 1\\CLDV6211\\2025\\ICE-Task-3\\ICE Task 3\\Data\\BDBContext.cs",
+              "RelativeDocumentMoniker": "Data\\BDBContext.cs",
+              "ToolTip": "C:\\Users\\Pearl\\Documents\\School\\Year 3 Sem 1\\CLDV6211\\2025\\ICE-Task-3\\ICE Task 3\\Data\\BDBContext.cs",
+              "RelativeToolTip": "Data\\BDBContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T09:05:00.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pearl\\Documents\\School\\Year 3 Sem 1\\CLDV6211\\2025\\ICE-Task-3\\ICE Task 3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Pearl\\Documents\\School\\Year 3 Sem 1\\CLDV6211\\2025\\ICE-Task-3\\ICE Task 3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T09:04:53.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Pearl\\Documents\\School\\Year 3 Sem 1\\CLDV6211\\2025\\ICE-Task-3\\ICE Task 3\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Pearl\\Documents\\School\\Year 3 Sem 1\\CLDV6211\\2025\\ICE-Task-3\\ICE Task 3\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAADTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-21T08:59:08.256Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
